@@ -123,6 +123,7 @@ const especificaciones = Movil["especificaciones"];
 Grupo.numIntegrantes = 5;
 
 //24
+
 Pantalla.dimensiones = "1920x1080";
 
 //25
